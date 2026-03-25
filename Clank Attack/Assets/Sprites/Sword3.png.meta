@@ -183,7 +183,7 @@ TextureImporter:
       name: Sword3_1
       rect:
         serializedVersion: 2
-        x: 389
+        x: 524
         y: 724
         width: 334
         height: 1231
@@ -205,7 +205,7 @@ TextureImporter:
       name: Sword3_2
       rect:
         serializedVersion: 2
-        x: 505
+        x: 640
         y: 0
         width: 348
         height: 656
